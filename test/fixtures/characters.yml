@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  pitch: one
+  actor: one
+
+two:
+  name: MyString
+  pitch: two
+  actor: two

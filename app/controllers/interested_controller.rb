@@ -1,0 +1,2 @@
+class InterestedController < ApplicationController
+end
